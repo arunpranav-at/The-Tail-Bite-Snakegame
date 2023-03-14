@@ -50,7 +50,7 @@ Software:
 	Snipping tool
 	Notepad
  
- DATA DICTIONARY:
+DATA DICTIONARY:
 
 MODULES USED:
 	turtle module
